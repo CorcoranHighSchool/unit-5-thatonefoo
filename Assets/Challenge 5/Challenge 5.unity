@@ -1398,7 +1398,7 @@ GameObject:
   - component: {fileID: 1611319333}
   - component: {fileID: 1611319332}
   - component: {fileID: 1611319331}
-  m_Layer: 0
+  m_Layer: 4
   m_Name: Sensor
   m_TagString: Sensor
   m_Icon: {fileID: 0}
